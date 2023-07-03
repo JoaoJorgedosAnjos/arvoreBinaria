@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba66aac2-4a7c-47fd-b185-da40c4d70d1c" name="Changes" comment="Implementação da classe ArvoreBinaria - Parte 3 - Método Remove() Parte1">
-      <change beforePath="$PROJECT_DIR$/src/main/java/one/digitalinnovation/ArvoreBinaria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/one/digitalinnovation/ArvoreBinaria.java" afterDir="false" />
+    <list default="true" id="ba66aac2-4a7c-47fd-b185-da40c4d70d1c" name="Changes" comment="Implementação da classe ArvoreBinaria - Parte 3 - Método Remove() Parte 5">
+      <change afterPath="$PROJECT_DIR$/src/main/java/one/digitalinnovation/model/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/one/digitalinnovation/model/Obj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/one/digitalinnovation/model/ObjArvore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +54,7 @@
       <workItem from="1688266627720" duration="84000" />
       <workItem from="1688307775580" duration="921000" />
       <workItem from="1688326728654" duration="438000" />
-      <workItem from="1688344641209" duration="2632000" />
+      <workItem from="1688344641209" duration="4470000" />
     </task>
     <task id="LOCAL-00001" summary="Explicação da classe NoArvore Nó Árvore">
       <option name="closed" value="true" />
@@ -85,7 +88,47 @@
       <option name="project" value="LOCAL" />
       <updated>1688346822936</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Implementação da classe ArvoreBinaria - Parte 3 - Método Remove() Parte 2">
+      <option name="closed" value="true" />
+      <created>1688347369944</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1688347369944</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Implementação da classe ArvoreBinaria - Parte 3 - Método Remove() Parte 3">
+      <option name="closed" value="true" />
+      <created>1688347502363</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1688347502363</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Implementação da classe ArvoreBinaria - Parte 3 - Método Remove() Parte 4">
+      <option name="closed" value="true" />
+      <created>1688347587013</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1688347587013</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Implementação da classe ArvoreBinaria - Parte 3 - Método Remove() Parte 4">
+      <option name="closed" value="true" />
+      <created>1688347911477</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1688347911477</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Implementação da classe ArvoreBinaria - Parte 3 - Método Remove() Parte 5">
+      <option name="closed" value="true" />
+      <created>1688347947787</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1688347947787</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,6 +139,10 @@
     <MESSAGE value="Implementação da classe ArvoreBinaria - Parte 1" />
     <MESSAGE value="Implementação da classe ArvoreBinaria - Parte 2 exibirInOrgem(),exibirPosOrdem(),exibirPreOrdem()" />
     <MESSAGE value="Implementação da classe ArvoreBinaria - Parte 3 - Método Remove() Parte1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implementação da classe ArvoreBinaria - Parte 3 - Método Remove() Parte1" />
+    <MESSAGE value="Implementação da classe ArvoreBinaria - Parte 3 - Método Remove() Parte 2" />
+    <MESSAGE value="Implementação da classe ArvoreBinaria - Parte 3 - Método Remove() Parte 3" />
+    <MESSAGE value="Implementação da classe ArvoreBinaria - Parte 3 - Método Remove() Parte 4" />
+    <MESSAGE value="Implementação da classe ArvoreBinaria - Parte 3 - Método Remove() Parte 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implementação da classe ArvoreBinaria - Parte 3 - Método Remove() Parte 5" />
   </component>
 </project>
