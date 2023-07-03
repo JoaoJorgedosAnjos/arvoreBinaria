@@ -15,7 +15,6 @@ public class Main {
         minhaArvore.inserir(new Obj(31));
         minhaArvore.inserir(new Obj(29));
         minhaArvore.inserir(new Obj(32));
-        minhaArvore.remover(new Obj(32));
 
         minhaArvore.exibirInOrdem();
         minhaArvore.exibirPreOrdem();
